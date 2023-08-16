@@ -9,7 +9,7 @@ Welcome to the 3D Galaxy Simulation in MATLAB repository! This project provides 
 1. **Clone the Repository:** Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/3d-galaxy-simulation.git
+   git clone https://github.com/victormeloasm/3DGalaxy.git
    ```
 
 2. **Open MATLAB:** Launch MATLAB on your computer.
@@ -17,14 +17,14 @@ Welcome to the 3D Galaxy Simulation in MATLAB repository! This project provides 
 3. **Navigate to the Repository:** Use the `cd` command to navigate to the directory where you cloned the repository:
 
    ```matlab
-   cd path/to/3d-galaxy-simulation
+   cd path/to/3DGalaxy
    ```
 
-4. **Run the Simulation:** Open the `galaxy_model.m` script in MATLAB and run it. You can modify the script's parameters to experiment with different galaxy configurations.
+4. **Run the Simulation:** Open the `Galaxy.m` script in MATLAB and run it. You can modify the script's parameters to experiment with different galaxy configurations.
 
 ## Understanding the Code
 
-The heart of this project is the `galaxy_model.m` script. This script allows you to generate 3D galaxy models based on a set of parameters that you define. Let's take a closer look at the key aspects:
+The heart of this project is the `Galaxy.m` script. This script allows you to generate 3D galaxy models based on a set of parameters that you define. Let's take a closer look at the key aspects:
 
 ### Parameters and Effects
 
@@ -61,7 +61,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/yourusername). Special thanks to the MATLAB community and contributors for their support.
+This project was created by Víctor Duarte Melo. Special thanks to the MATLAB community and contributors for their support.
 
 ---
 
